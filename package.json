@@ -1,0 +1,8 @@
+{
+  "name": "cross-chain-bridge-core",
+  "version": "1.0.0",
+  "description": "Simplified cross-chain bridge logic",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
